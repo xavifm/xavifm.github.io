@@ -34,14 +34,14 @@ Passionate about building engaging and scalable software, from indie games to en
 ### QA Game Tester (Internship)  
 **U-Play Online** · *Sep 2022 – Jan 2023*  
 - QA Tester for the **Youtubers Life franchise** (PC, Steam, PS4, iOS, Switch).  
-- Paid internship extended by one month.  
 
 ---
 
 ### Database Administrator (Internship)  
 **OQPBCN** · *Jul 2017 – Dec 2017*  
 - Managed and maintained **MySQL** and **MS Access** databases.  
-- Developed a **migration program** from Access to MySQL using **Java**.  
+- Developed a **migration program** from Access to MySQL using **Java**.
+- Paid internship extended by one month.  
 
 ---
 
