@@ -60,7 +60,7 @@ Passionate about building engaging and scalable software, from indie games to en
 
 ## 🛠️ Skills  
 
-**Game Development**: Unity 3D · Unreal Engine · Network Game Programming  
+**Game Development**: Unity 3D · Opengl Custom Engine · Unreal Engine · Network Game Programming  
 **Programming**: C# .NET · C++ · OpenGL · PHP · JavaScript · Java  
 **Databases**: MySQL · MS Access  
 **Other**: Agile Methodologies · Software Architecture  
