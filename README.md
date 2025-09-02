@@ -95,5 +95,9 @@ Passionate about building engaging and scalable software, from indie games to en
 
 ## 💻 GitHub Projects {#github}
 
+![14](https://github.com/user-attachments/assets/bb2fdaad-6a08-4e8a-931b-c91daf1ef711)
 ![_1](https://github.com/user-attachments/assets/8f68c054-6a4a-4756-b9af-09435fb84834)
+![10](https://github.com/user-attachments/assets/55b66a08-4dd6-43e2-a69d-5b606f2ee2e1)
 ![11](https://github.com/user-attachments/assets/8c73465d-c696-4bd6-a140-587094ff3f73)
+![12](https://github.com/user-attachments/assets/d3252688-47e1-4696-8b7c-13c284234f75)
+![15](https://github.com/user-attachments/assets/7e341622-a1b1-4408-86c8-efd0815ff6b0)
