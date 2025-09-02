@@ -4,7 +4,7 @@ include:
   - style.css
 
 title: Portfolio
-description: >
+description: |
   <strong>Software Engineer · Game Developer</strong><br/>
   <nav class="side-nav">
     <a href="#about">About / CV</a><br/>
@@ -12,18 +12,28 @@ description: >
     <a href="#github">GitHub Projects</a><br/>
   </nav>
 
-<style>
-  .side-nav a {
-    color: #1e90ff;
-    font-weight: 600;
-    text-decoration: none;
-  }
-  .side-nav a:hover {
-    color: #ff6600;
-    text-decoration: underline;
-  }
-</style>
+  <br><br>
+
+  <a href="mailto:xaviflores1@gmail.com">xaviflores1@gmail.com</a> · Barcelona, Spain
+
+  <style>
+    .side-nav a {
+      color: #1e90ff;   /* Blau per defecte */
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .side-nav a:hover {
+      color: #ff6600;   /* Taronja al hover */
+      text-decoration: underline;
+    }
+  </style>
+
+  <br><br>
+  
+  <nav class="side-nav">
+  <a href="mailto:xaviflores1@gmail.com">xaviflores1@gmail.com</a> · Barcelona, Spain
+  </nav>
 
 logo: /assets/avatar.png
-
 github_username:
+
