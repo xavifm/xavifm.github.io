@@ -16,21 +16,3 @@
 .side-nav a:hover {
   text-decoration: underline;
 }
-
-@import "{{ site.theme }}";
-
-body {
-  animation: zoomIn 0.8s ease-in-out;
-  transform-origin: center;
-}
-
-@keyframes zoomIn {
-  0% {
-    transform: scale(0.9);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
