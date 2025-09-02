@@ -1,7 +1,16 @@
 theme: jekyll-theme-cayman
 
-include:
-  - style.css
+<style>
+  .side-nav a {
+    color: #1e90ff;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .side-nav a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+  }
+</style>
 
 title: Portfolio
 description: >
@@ -10,24 +19,12 @@ description: >
     <a href="#about">About / CV</a><br/>
     <a href="#itchio">Itch.io Games</a><br/>
     <a href="#github">GitHub Projects</a><br/>
-  </nav>
-  
+
   <br>
   <br>
   
   <a href="mailto:xaviflores1@gmail.com">xaviflores1@gmail.com</a> · Barcelona, Spain
-
-  <style>
-    .side-nav a {
-      color: #1e90ff;   /* Blau per defecte */
-      font-weight: 600;
-      text-decoration: none;
-    }
-    .side-nav a:hover {
-      color: #ff6600;   /* Taronja al hover */
-      text-decoration: underline;
-    }
-  </style>
+  </nav>
 
 logo: /assets/avatar.png
 
