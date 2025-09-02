@@ -8,7 +8,7 @@
 ---
 
 ## 👋 About Me  
-Computer Engineer specialized in **game development**, with strong expertise in **C# .NET** and **C++ with Unreal Engine**.  
+Computer Engineer specialized in **game development**, with strong expertise in **C# .NET**, **Unity** and **C++ with Unreal Engine**.  
 I have been programming since 2016, with additional knowledge in **network programming (TCP/UDP)** and **software architecture**.  
 Passionate about building engaging and scalable software, from indie games to enterprise solutions.  
 
