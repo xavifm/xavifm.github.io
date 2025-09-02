@@ -1,0 +1,13 @@
+.page-header a {
+  color: #ffffff !important;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0.3rem 0;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.page-header a:hover {
+  text-decoration: underline;
+  color: #ffeb3b !important;
+}
