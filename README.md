@@ -1,4 +1,10 @@
-# 👨‍💻 Xavier Flores Mestre  
+---
+layout: page
+title: Welcome
+permalink: /
+---
+
+# 👨‍💻 Xavier Flores Mestre {#about}
 **Software Engineer | Game Developer**  
 
 [GitHub](https://github.com/xavifm) · [Itch.io](https://xavif2.itch.io/)
@@ -74,6 +80,10 @@ Passionate about building engaging and scalable software, from indie games to en
 - **English**: B2 (Cambridge Certified)  
 
 ---
+
+# 🎮 Itch.io Projects {#itchio}
+
+# 💻 GitHub Projects {#github}
 
 ## 🎮 Independent Projects  
 
