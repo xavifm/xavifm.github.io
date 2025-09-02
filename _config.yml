@@ -3,9 +3,11 @@ theme: jekyll-theme-minimal
 title: Portfolio
 description: >
   <strong>Software Engineer · Game Developer</strong><br/>
-  <a href="https://github.com/xavifm">GitHub</a> ·
-  <a href="https://xavif2.itch.io/">Itch.io</a> ·
-  <a href="https://xavierflores.myportfolio.com/">Portfolio</a><br/>
+  <nav class="side-nav">
+    <a href="#about">About / CV</a> ·
+    <a href="#itchio">Itch.io Games</a> ·
+    <a href="#github">GitHub Projects</a>
+  </nav>
   <a href="mailto:xaviflores1@gmail.com">xaviflores1@gmail.com</a> · Barcelona, Spain
 
 logo: /assets/avatar.png
