@@ -75,11 +75,11 @@ Passionate about building engaging and scalable software, from indie games to en
 
 ---
 
-# 🎮 Itch.io Projects {#itchio}
-
-# 💻 GitHub Projects {#github}
-
 ## 🎮 Independent Projects  
 
 - [GitHub](https://github.com/xavifm) — My code repositories.  
-- [Itch.io](https://xavif2.itch.io/) — Published indie games.  
+- [Itch.io](https://xavif2.itch.io/) — Published indie games.
+
+## 🎮 Itch.io Projects {#itchio}
+
+## 💻 GitHub Projects {#github}
