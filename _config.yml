@@ -1,5 +1,14 @@
 theme: jekyll-theme-cayman
 
+title: Portfolio
+description: >
+  <strong>Software Engineer · Game Developer</strong><br/>
+  <nav class="side-nav">
+    <a href="#about">About / CV</a><br/>
+    <a href="#itchio">Itch.io Games</a><br/>
+    <a href="#github">GitHub Projects</a><br/>
+  </nav>
+
 <style>
   .side-nav a {
     color: #1e90ff;
@@ -11,15 +20,6 @@ theme: jekyll-theme-cayman
     text-decoration: underline;
   }
 </style>
-
-title: Portfolio
-description: >
-  <strong>Software Engineer · Game Developer</strong><br/>
-  <nav class="side-nav">
-    <a href="#about">About / CV</a><br/>
-    <a href="#itchio">Itch.io Games</a><br/>
-    <a href="#github">GitHub Projects</a><br/>
-  </nav>
 
 logo: /assets/avatar.png
 
