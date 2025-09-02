@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+include:
+  - style.css
+
 title: Portfolio
 description: >
   <strong>Software Engineer · Game Developer</strong><br/>
