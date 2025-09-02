@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
-title: My portfolio
-description: "Welcome to my portfolio—take a look at my projects, experience, and what I'm building next."
+
+title: Xavier Flores — Portfolio
+description: >
+  <strong>Software Engineer · Game Developer</strong><br/>
+  <a href="https://github.com/xavifm">GitHub</a> ·
+  <a href="https://xavif2.itch.io/">Itch.io</a> ·
+  <a href="https://xavierflores.myportfolio.com/">Portfolio</a><br/>
+  <a href="mailto:xaviflores1@gmail.com">xaviflores1@gmail.com</a> · Barcelona, Spain
+
+logo: /assets/avatar.png
+
+github_username:
