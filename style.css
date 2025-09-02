@@ -17,3 +17,27 @@
   text-decoration: underline;
 }
 
+body {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 1200px;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-size: 1.4em;
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.sidebar {
+  font-size: 1.1rem;
+}
+.sidebar a {
+  display: block;
+  margin: 0.4rem 0;
+  font-size: 1.15rem;
+}
