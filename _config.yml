@@ -4,9 +4,9 @@ title: Portfolio
 description: >
   <strong>Software Engineer · Game Developer</strong><br/>
   <nav class="side-nav">
-    <a href="#about">About / CV</a> ·
-    <a href="#itchio">Itch.io Games</a> ·
-    <a href="#github">GitHub Projects</a>
+    <a href="#about">About / CV</a><br/>
+    <a href="#itchio">Itch.io Games</a><br/>
+    <a href="#github">GitHub Projects</a><br/>
   </nav>
   <a href="mailto:xaviflores1@gmail.com">xaviflores1@gmail.com</a> · Barcelona, Spain
 
