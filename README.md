@@ -1,9 +1,3 @@
----
-layout: page
-title: Welcome
-permalink: /
----
-
 # 👨‍💻 Xavier Flores Mestre {#about}
 **Software Engineer | Game Developer**  
 
