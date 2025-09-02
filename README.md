@@ -79,4 +79,3 @@ Passionate about building engaging and scalable software, from indie games to en
 
 - [GitHub](https://github.com/xavifm) — My code repositories.  
 - [Itch.io](https://xavif2.itch.io/) — Published indie games.  
-- [Portfolio](https://xavierflores.myportfolio.com/) — Project showcases and case studies.  
