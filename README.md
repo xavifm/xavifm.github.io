@@ -82,6 +82,7 @@ Passionate about building engaging and scalable software, from indie games to en
 
 ## 🎮 Itch.io Projects {#itchio}
 
+![0](https://github.com/user-attachments/assets/7d80248b-8708-4704-9088-d9d12edc4e75)
 ![2](https://github.com/user-attachments/assets/f8be87d7-c8de-417f-b277-dcc7205d977f)
 ![3](https://github.com/user-attachments/assets/4f2d1f92-ac63-496a-aec0-955edc85e454)
 ![4](https://github.com/user-attachments/assets/b311b4ba-c483-4757-a237-6d7d04c9a690)
@@ -89,6 +90,5 @@ Passionate about building engaging and scalable software, from indie games to en
 ![7](https://github.com/user-attachments/assets/60790fbc-90db-4178-8791-efcdde4867dc)
 ![9](https://github.com/user-attachments/assets/e637f62e-9425-4c23-84af-b846cac412e5)
 ![8](https://github.com/user-attachments/assets/c72cca49-f40c-411c-9b46-c0617cee4aa3)
-
 
 ## 💻 GitHub Projects {#github}
